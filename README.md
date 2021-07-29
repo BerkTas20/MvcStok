@@ -22,11 +22,13 @@ necessary packages (NuGet)
 3. Microsoft ASP.NET MVC
 AND
 ##Don't forget to match tables in diagram design
+####NULL = do not leave this field in the database
 
 @octocat :+1: This PR looks great - good coding ! :shipit:
 
 > Visual studioya gir.Asp.net üzerinden boş proje oluştur ve MVC yi seç. Veritabanı bağlantısını ADO.NET üzerinden yap.
 > Veritabanının backupunu attım . Tablolar arasındaki ilişkiye dikkat et aksi takdirde kodlarken tablolar eşleşmez.
+> Veritabanı bağlantısını visual studiodan ADO.NET  ile gerçekleştir.
 > Tasarımı w3schoolsan alabilirsin.Navbar template  [GitHub Pages](https://www.w3schools.com/bootstrap/bootstrap_navbar.asp).
 > Veritabanının backupunu attım . Tablolar arasındaki ilişkiye dikkat et aksi takdirde kodlarken tablolar eşleşmez.
 > Controllerden projeyi oluştur.Ardından sağ tık yapıp view ekle.Viewler arasındaki Model bağlantısını yazmayı unutma.
@@ -35,3 +37,6 @@ AND
 2. PagedList Mvc
 3. jquery.datatables
 3. Microsoft ASP.NET MVC
+
+Veri tabanında null yer bırakma aksi takdirde crud işlemleri gerçekleşmez !
+@octocat :+1: This PR looks great - İyi Kodlamalar Arkadaşım ! :shipit:
