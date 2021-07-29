@@ -38,4 +38,4 @@ AND
 3. Microsoft ASP.NET MVC
 
 Veri tabanında null yer bırakma aksi takdirde crud işlemleri gerçekleşmez !
-@octocat :+1: This PR looks great - İyi Kodlamalar Arkadaşım ! :shipit:
+@octocat :+1: Proje güzel gözüküyor - İyi Kodlamalar Arkadaşım ! :shipit:
