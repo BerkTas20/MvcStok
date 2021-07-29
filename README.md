@@ -21,8 +21,8 @@ necessary packages (NuGet)
 3. jquery.datatables
 3. Microsoft ASP.NET MVC
 AND
-##Don't forget to match tables in diagram design
-####NULL = do not leave this field in the database
+- Don't forget to match tables in diagram design
+- NULL = do not leave this field in the database
 
 @octocat :+1: This PR looks great - good coding ! :shipit:
 
