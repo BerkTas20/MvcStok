@@ -1,9 +1,9 @@
 # MvcStok
 ASP.NET MVC Crud Operations
 
-######  Simple Mvc Stock project created with listing ,adding, deleting and  updating ####
+######Simple Mvc Stock project created with listing ,adding, deleting and  updating ####
 
-######  Listeleme ekleme silme güncelleme ile oluşturulan basit mvc Stok projesi ####
+######Listeleme ekleme silme güncelleme ile oluşturulan basit mvc Stok projesi ####
 
 
 How to create a project simply:
