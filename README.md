@@ -1,5 +1,5 @@
 # MvcStok
-ASP.NET MVC Crud Operations   PHOTO > ![Image of Yaktocat](https://i.hizliresim.com/f578dis.PNG)
+ASP.NET MVC Crud Operations   > ![Image of Yaktocat](https://i.hizliresim.com/f578dis.PNG)
 
 ######Simple Mvc Stock project created with listing ,adding, deleting and  updating  WEB
 
