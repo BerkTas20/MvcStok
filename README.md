@@ -30,7 +30,6 @@ AND
 > Veritabanının backupunu attım . Tablolar arasındaki ilişkiye dikkat et aksi takdirde kodlarken tablolar eşleşmez.
 > Veritabanı bağlantısını visual studiodan ADO.NET  ile gerçekleştir.
 > Tasarımı w3schoolsan alabilirsin.Navbar template  [GitHub Pages](https://www.w3schools.com/bootstrap/bootstrap_navbar.asp).
-> Veritabanının backupunu attım . Tablolar arasındaki ilişkiye dikkat et aksi takdirde kodlarken tablolar eşleşmez.
 > Controllerden projeyi oluştur.Ardından sağ tık yapıp view ekle.Viewler arasındaki Model bağlantısını yazmayı unutma.
 > Eklemen gereken paketler (NuGet)
 1. PagedList
