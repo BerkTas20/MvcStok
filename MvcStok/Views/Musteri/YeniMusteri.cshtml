@@ -1,0 +1,33 @@
+﻿@model MvcStok.Models.Entity.TBLMUSTERILER
+@{
+    ViewBag.Title = "YeniMusteri";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<form method="post" class="form-group">
+    <div>
+        <label>Müşteri Adı</label>
+        @*@Html.TextBoxFor(m => m.MUSTERIAD, new { @class = "form-control" })*@
+        @Html.ValidationMessageFor(m => m.MUSTERIAD, "", new { @style = "color:green" })
+        <input type="text" class="form-control" name="MUSTERIAD" />
+    </div>
+    <div>
+        <label>Müşteri Soyadı</label>
+        <input type="text" class="form-control" name="MUSTERISOYAD" />
+    </div>
+    <div style="margin-top:15px">
+        <button class="btn btn-outline-secondary" id="tikla">
+            YENİ MÜŞTERİ EKLE
+        </button>
+    </div>
+    <script>
+        $("#tikla").click(function () {
+            alert("Eklendi");
+        });
+
+    </script>
+</form>
+
+
