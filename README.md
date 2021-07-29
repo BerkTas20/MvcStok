@@ -40,4 +40,4 @@ AND
 Veri tabanında null yer bırakma aksi takdirde crud işlemleri gerçekleşmez !
 @octocat :+1: Proje güzel gözüküyor - İyi Kodlamalar Arkadaşım ! :shipit:
 
-[Image of Yaktocat](https://i.hizliresim.com/h5dj4kq.PNG)
+![Image of Yaktocat](https://i.hizliresim.com/h5dj4kq.PNG)
